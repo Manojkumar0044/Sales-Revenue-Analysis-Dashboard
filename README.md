@@ -1,8 +1,11 @@
 # Sales-Revenue-Analysis-Dashboard
+
 1.Project Discription 
+
 An interactive Excel dashboard that analyzes sales and revenue using date-wise, product-wise, category-wise, and region-wise data. It uses colorful charts and visualizations to identify sales trends, top-performing products, and high-performing regions.
 
 2.Objectives
+
 Analyze overall sales and revenue performance.
 Track date-wise and monthly revenue trends.
 Identify top-performing products.
@@ -12,6 +15,7 @@ Provide easy-to-understand visual insights.
 Support better business decision-making.
 
 3.Dataset
+
 The dataset contains 200 sales records with information such as:
 Order ID
 Date
@@ -28,6 +32,7 @@ Salesperson
 Payment Method
 
 4.Dashboard Features
+
 📌 Total Sales
 📌 Total Revenue
 📌 Total Orders
